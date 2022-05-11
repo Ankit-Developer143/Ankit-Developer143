@@ -10,24 +10,6 @@
 - :white_check_mark: Check My portfolio 
 [Live Demo](https://clever-davinci-1facc8.netlify.app)
 
-
-
-### Stats
-
-<a href="#stats">
-<img align="center" alt="Prathamesh's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=Ankit-Developer143&show_icons=true&count_private=true" />
-</a>
-
-</br>
-</br>
-<a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Ankit-Developer143&hide=css&layout=compact" />
-</a>
-
-</br>
-</br>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Developer143&" alt="Ankit-Developer143" /></p>
 </br>
 </br>
