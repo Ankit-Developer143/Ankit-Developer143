@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Ankit
 
 
-- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about JavaScript | Python | Java | Angular | React | Strapi | Nodejs | Express | Django | Fastify | Featherjs. 
 - 😄 Pronouns: he/him.
